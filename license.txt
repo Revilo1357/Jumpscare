@@ -1,0 +1,11 @@
+Model Information:
+* title:	murder_the_clown_jumpscare
+* source:	https://sketchfab.com/3d-models/murder-the-clown-jumpscare-b2e47b73e686469481c1c180bb54a1b7
+* author:	Howard the Lipscomb (https://sketchfab.com/1310545)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "murder_the_clown_jumpscare" (https://sketchfab.com/3d-models/murder-the-clown-jumpscare-b2e47b73e686469481c1c180bb54a1b7) by Howard the Lipscomb (https://sketchfab.com/1310545) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
